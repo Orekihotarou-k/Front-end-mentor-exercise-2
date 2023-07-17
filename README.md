@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nftpreviewcard-challenge-kW6JkcHC8G)
-- Live Site URL: [Add live site URL here](https://main--splendorous-medovik-1a208a.netlify.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/nftpreviewcard-challenge-kW6JkcHC8G)
+- Live Site URL: (https://main--splendorous-medovik-1a208a.netlify.app/)
 
 
 ### Built with
