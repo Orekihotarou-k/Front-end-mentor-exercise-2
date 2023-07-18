@@ -27,6 +27,22 @@ a{
     box-shadow: 0 15px 35px hsl(214, 68%, 9%);
 }
 
+.desc-info{
+    position: relative;
+    }
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    }
+.overlay:hover{
+    opacity: 1;
+    background: hsl(178, 100%, 50%, 0.5);
+    }
+
 .desc-info img{
     width: 260px;
     margin: 10px 0 10px 10px;
@@ -103,6 +119,6 @@ hr{
 }
 
 .attribution{
-    margin-top: 50px;
+    margin-top: 10px;
     text-align: center;   
 }
